@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
 <h3 align="center">Recently graduated from Le Wagon Full Stack Web Development course, I am passionate about all things technology and design, from software engineering to UI/UX.</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails and React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ellenycc](https://github.com/ellenycc)
-
-- 💬 Ask me about **HTML5, CSS, Bootstrap, JavaScript ES6, Stimulus JS, Figma, Regex, Visual Studio Code, AJAX, Ruby on Rails, SQL and Heroku**
-
-- 📫 How to reach me **ellenycc@gmail.com**
+🌱 I’m currently learning **Ruby on Rails and React**
 
 <p align="left">
 </p>
