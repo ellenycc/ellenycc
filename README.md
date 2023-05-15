@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ellen</h1>
 <h3 align="center">Recently graduated from Le Wagon Full Stack Web Development course, I have a passion for all things technology and design, from software engineering to UI/UX.</h3>
 
