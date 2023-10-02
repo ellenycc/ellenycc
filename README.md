@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
 <h3 align="center">Recently graduated from Le Wagon Full Stack Web Development course, I am passionate about all things technology and design, from software engineering to UI/UX.</h3>
 
-🌱 I’m currently learning **Ruby on Rails and React**
+🌱 I’m currently deepening my knowledge on **Ruby on Rails and JavaScript**
 
 <p align="left">
 </p>
