@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
 <h3 align="center">Recently graduated from Le Wagon Full Stack Web Development course, I am passionate about all things technology and design, from software engineering to UI/UX.</h3>
 
-🌱 I’m currently deepening my knowledge on **Ruby on Rails and JavaScript**
-
 <p align="left">
 </p>
 
@@ -12,3 +10,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellenycc&show_icons=true&locale=en&layout=compact" alt="ellenycc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellenycc&show_icons=true&locale=en" alt="ellenycc" /></p>
+
+<h3>Projects</h3>
+<ul>
+  <li><a href="https://github.com/AsulaAman/capybaraapp-michael">Capybara</a> is our final project for the Le Wagon Web Development course. It is a social platform developed on Rails, where users can look for like-minded individuals in their area by     filtering and searching by interests and locations. Users can view other users' profiles, add them as friends, and engage in meaningful conversations instantly by sending direct messages to each other.
+  </li>
+  <li><a href="https://ellenycc.github.io/portfolio/">My Portfolio</a></li>
+</ul>
