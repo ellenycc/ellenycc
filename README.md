@@ -15,5 +15,5 @@
 <ul>
   <li><a href="https://github.com/AsulaAman/capybaraapp-michael">Capybara</a> is our final project for the Le Wagon Web Development course. It is a social platform developed on Rails, where users can look for like-minded individuals in their area by     filtering and searching by interests and locations. Users can view other users' profiles, add them as friends, and engage in meaningful conversations instantly by sending direct messages to each other.
   </li>
-  <li><a href="https://ellenycc.github.io/portfolio/">My Portfolio</a></li>
+  <li><a href="https://ellenycc.github.io/portfolio/"></a></li>
 </ul>
