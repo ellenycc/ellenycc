@@ -5,7 +5,7 @@
 ### ✍️ About Me
 
 * Software developer with a passion for creating engaging and impactful web apps
-* I am currently learning React
+* I am currently learning React, check out my latest project <a href="https://book-hub-nu-five.vercel.app/">BookHub</a> built with React, TypeScript and Google Book API.
 * Ask me about **Ruby, Rails, CSS, JS**
 * Feel free to check out my <a href="https://ellenycc.github.io/portfolio/">portfolio</a>
 
