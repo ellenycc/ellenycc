@@ -4,7 +4,7 @@
 
 * I'm a software developer from Hong Kong living in London now. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to learn new technologies and improve my skills.
 * I am working on a book recommendation app project built with React, TypeScript and Google Book API, check out <a href="https://book-hub-nu-five.vercel.app/">BookHub</a> 
-* I've recently started learning Python, see my <a href="https://github.com/ellenycc/python-projects">GitHub repo</a> for my key learning takeaways.
+* I've recently started learning Python.
 * Feel free to check out my <a href="https://ellenycc.github.io/portfolio/">portfolio</a>
 
 ### ⚙️	Skills
