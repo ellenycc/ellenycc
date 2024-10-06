@@ -2,10 +2,9 @@
 
 ### ✍️ About Me
 
-* I'm a software developer from Hong Kong based in London. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to learn new technologies and improve my skills.
-* I am working on a book recommendation app project built with React, TypeScript and Google Book API, check out <a href="https://book-hub-nu-five.vercel.app/">BookHub</a> 
-* I am currently learning Python and Django, documenting my learning process here: <a href="https://github.com/ellenycc/python-projects">Python projects</a>
-* Feel free to check out my <a href="https://ellenycc.github.io/portfolio/">portfolio</a>
+- My latest project <a href="https://book-hub-nu-five.vercel.app/">BookHub</a> is a book recommendation app project built with React, TypeScript and Google Book API.
+- I am currently learning Python and Django, documenting my learning process here: <a href="https://github.com/ellenycc/python-projects">Python projects</a>
+- Check out my <a href="https://ellenycc.github.io/portfolio/">portfolio</a>
 
 With a decade of experience in higher education, CRM administration, project management, and customer service, I bring a unique perspective and a well-rounded skill set to web development. I’m now fully committed to a career as a developer, using my background to create intuitive, user-centered applications.
 
