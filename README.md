@@ -8,8 +8,9 @@ I have hands-on experience building applications using HTML, JavaScript, CSS, Re
 
 I am passionate about continuous learning and dedicated to refining my skills. As I seek my first role as a junior web developer, I’m excited to contribute to a team where I can grow, innovate, and help build high-quality applications.
 
-- React project: <a href="https://book-hub-nu-five.vercel.app/">BookHub</a> is a book recommendation app project built with React, TypeScript and Google Book API.
-- Django project: <a href="https://github.com/ellenycc/travelog">Travelog</a> is a full stack social travel website built with Django, Bootstrap, JavaScript and Postgresql.
+Latest projects:
+-  <a href="https://github.com/ellenycc/travelog">Travelog</a> is a full stack social travel website built with Django, Bootstrap, JavaScript and Postgresql.
+- <a href="https://book-hub-nu-five.vercel.app/">BookHub</a> is a book recommendation app project built with React, TypeScript and Google Book API.
 - My first blog post <a href="https://dev.to/ellenycc/understanding-django-orm-hh0">Understanding Django ORM</a>
 
 ### ⚙️ Languages and Tools
