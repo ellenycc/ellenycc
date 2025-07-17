@@ -9,7 +9,7 @@ I’ve built and deployed full-stack applications using Python, Django, React, a
 Passionate about building clean, intuitive interfaces and solving practical problems with code, I’m actively seeking a junior developer role where I can grow, collaborate, and contribute to meaningful products.
 
 Latest projects:
-- **[Painting Metadata Extractor](https://github.com/ellenycc/painting-scraper)**  
+- **[Painting Metadata Extractor](https://github.com/ellenycc/paintings-scraper)**  
   A Python script using BeautifulSoup and Pandas to extract painting details from the National Gallery website, used internally at the National Gallery to create a complete and accurate artwork database. Improved internal workflow efficiency and replaced manual tracking.
 - **[Travelog](https://github.com/ellenycc/travelog)**  
   A Django-based full-stack social travel platform where users can create, edit, and tag posts. Features image uploads, responsive design, and tag-based filtering. Deployed on DigitalOcean with PostgreSQL.
