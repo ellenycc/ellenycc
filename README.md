@@ -10,7 +10,7 @@ Passionate about building clean, intuitive interfaces and solving practical prob
 
 Latest projects:
 - **[Painting Metadata Extractor](https://github.com/ellenycc/paintings-scraper)**  
-  A Python script using BeautifulSoup and Pandas to extract painting details from the National Gallery website, used internally at the National Gallery to create a complete and accurate artwork database. Improved internal workflow efficiency and replaced manual tracking.
+  A Python script using BeautifulSoup and Pandas to extract painting details from the National Gallery website, used internally at the National Gallery to create a complete and accurate artwork database. Improved internal workflow efficiency and created a scalable solution that can be extended to include image data and AI features.
 - **[Travelog](https://github.com/ellenycc/travelog)**  
   A Django-based full-stack social travel platform where users can create, edit, and tag posts. Features image uploads, responsive design, and tag-based filtering. Deployed on DigitalOcean with PostgreSQL.
 - **[BookHub](https://book-hub-nu-five.vercel.app/)**  
